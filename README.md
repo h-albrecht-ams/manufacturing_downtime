@@ -59,6 +59,7 @@ Efficiency = Running Time / Total Batch Time
 ﻿﻿
 This provides an estimate of how efficiently the production line operates.
 ```
+
 ---
 
 ### 2. Operator Performance Analysis
@@ -71,6 +72,7 @@ Operators were compared using:
 
 This allows comparison of both downtime severity and frequency.
 ```
+
 ---
 
 ### 3. Downtime Driver Analysis
@@ -82,14 +84,18 @@ Downtime causes were analyzed from two perspectives:
 
 This helps identify the most impactful operational bottlenecks.
 ```
+
 ---
+
 ### 4. Operator Error Analysis
 
 Downtime factors classified as operator-related were isolated and grouped by operator.
 ```text
 A heatmap was used to identify recurring operator-specific error patterns.
 ```
+
 ---
+
 ### Tools Used
 ```text
 * Python
@@ -101,6 +107,8 @@ A heatmap was used to identify recurring operator-specific error patterns.
 * Git / GitHub
 * Visual Studio Code
 ```
+
+---
 
 ### Key Findings
 
@@ -116,6 +124,8 @@ Operators show different downtime patterns:
 * Others experience more frequent but shorter disruptions
 ```
 
+---
+
 ### Major Downtime Drivers
 
 Key downtime contributors include:
@@ -124,6 +134,9 @@ Key downtime contributors include:
 * Batch change
 * Inventory-related interruptions
 ```
+
+---
+
 ### Operator-Specific Issues
 
 Distinct patterns were identified:
@@ -132,6 +145,8 @@ Distinct patterns were identified:
 * Dennis and Charlie show higher machine adjustment downtime
 * Dee shows smaller but more distributed operator-related issues
 ```
+
+---
 
 ### Recommendations
 
@@ -143,6 +158,8 @@ Based on the analysis:
 * Improve inventory coordination to reduce avoidable stoppages
 ```
 
+---
+
 ### Team
 
 Project completed collaboratively as part of a data analytics course project.
@@ -152,6 +169,8 @@ Contributors:
 * Hendrik Albrecht
 * Natalia Ströher
 ```
+
+---
 
 ### Status
 
